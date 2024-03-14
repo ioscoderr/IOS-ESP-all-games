@@ -1,0 +1,10 @@
+Package: com.andr.csstaarike
+Name: andr hack
+Depends: mobilesubstrate
+Version: 12.303
+Architecture: iphoneos-arm
+Description: andr hack csstaarike 1.2.93
+Maintainer: andr
+Author: andr
+Section: Tweaks
+Homepage: none
